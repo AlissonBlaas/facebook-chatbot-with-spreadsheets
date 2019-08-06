@@ -1,6 +1,8 @@
 # facebook-chatbot-with-spreadsheets
 facebook chatbot with google spreadsheets and some filter with buttons into facebookchat
 
+all code are into bot.js
+
 a special thanks to christopher moura: https://github.com/ccmoura
 for help me.
 
