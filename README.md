@@ -1,7 +1,7 @@
 # facebook-chatbot-with-spreadsheets
 facebook chatbot with google spreadsheets and some filter with buttons into facebookchat
 
-a special thanks to christopher moura: https://www.linkedin.com/in/christopher-m-786292a1/
+a special thanks to christopher moura: https://github.com/ccmoura
 for help me.
 
 You will need this dependences: NODEJS, EXPRESS, BODY-PARSER, GOOGLE-SPREADSHEETS
